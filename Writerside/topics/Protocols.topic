@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Protocols" id="Protocols">
+
+    <p>The LIFE Automation Panel features 22 professionally crafted Protocols that can be executed on your LIFE System clients. A Protocol is a sequence of prerecorded steps that were prepared by LIFE System Master Practitioners from Biofeedback Wellness Center and around the world with a combined experience of over 40 years in quantum biofeedback and other professions. These practitioners carefully curated a list of 22 Protocols for situations that are commonly operated on the LIFE System.</p>
+    <p>With the LIFE Automation Panel, these protocols can be easily automated by LIFE System practitioners, by executing instantly or scheduling to be executed unattended at any time to service clients through metaspace, increasing productivity for the operator.</p>
+    <p>Below are the 22 Protocols available in the LIFE Automation Panel:</p>
+
+    <chapter title="ADD/ADHD/Autism" id="protocol1" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Allergy Support" id="protocol2" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Bio Field Support" id="protocol3" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Bladder/Kidney" id="protocol4" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Body Balance/Anti-Parasitic" id="protocol5" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Brain Trauma" id="protocol6" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Cancer Support" id="protocol7" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Depression/Anxiety" id="protocol8" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Digestive Support" id="protocol9" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Endocrine/Diabetic Support" id="protocol10" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Eye Support" id="protocol11" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Heart Support" id="protocol12" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Immune System" id="protocol13" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Lymphatic Drainage" id="protocol14" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Lyme/Encephalitis/Post COVID" id="protocol15" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Pain" id="protocol16" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Parkinson/Alzheimer" id="protocol17" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Prostate/Urinary" id="protocol18" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Sciatic/Hip" id="protocol19" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Sinus" id="protocol20" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Sleep Support" id="protocol21" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+    <chapter title="Sports Recovery" id="protocol22" collapsible="true">
+        <p><i>Description coming soon</i></p>
+    </chapter>
+</topic>

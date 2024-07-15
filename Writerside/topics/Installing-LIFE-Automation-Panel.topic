@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       id="Installing-LIFE-Automation-Panel" title="Installing LIFE Automation Panel">
+
+    <title>
+        Installing LIFE Automation Panel
+    </title>
+    <chapter title="System Requirements" id="system-requirements">
+        <p>Prior to operation, make sure to check the following prerequisites:</p>
+        <procedure title="System Requirements" type="choices" id="requirements">
+            <step><b>Processor:</b> 1 gigahertz (GHz) or faster with 2 or more cores on a <a href="http://aka.ms/CPUlist">compatible
+                processor</a>.
+            </step>
+            <step><b>Memory:</b> 8 gigabytes (GB) or more recommended (4 GB is minimum but may experience issues)</step>
+            <step><b>Storage:</b> 256 gigabytes (GB) or more Solid State Drive (SSD) is recommended</step>
+            <step><b>Operating System:</b> Must be updated to the latest version of Windows 11 (recommended) or Windows 10
+            </step>
+            <step><b>Display:</b> 1366x768px screen resolution</step>
+            <step><b>Internet connection:</b> Internet access is <u>only</u> required to perform system updates and complete
+                installation. Internet access is not required when executing automation.
+            </step>
+            <step><b>Software:</b> Computer must already have LIFE System software installed for Second Generation LIFE
+                Systems or newer. Must meet the requirements defined in the LIFE System documentation. Not supported in S
+                Mode or other operating systems.
+            </step>
+        </procedure>
+    </chapter>
+    <chapter title="Downloading the LIFE Automation Panel" id="downloading">
+        <p>If your computer meets the requirements defined above, it is supported for the LIFE Automation Panel. Beta Testers will receive download links in their email.</p>
+        <warning>
+            Some web browsers may flag our software as unsafe or untrusted. You may have to manually keep the file and report it as safe. <a href="Setup-is-not-trusted-by-web-browser.topic">Learn more</a>
+        </warning>
+    </chapter>
+    <chapter title="Windows SmartScreen and User Account Control" id="smartscreen-and-uac">
+        <p>When trying to open the Setup file, Windows will often display a warning message: "Windows protected your PC". This is simply because it is unrecognized by your system; it is safe to run on your computer.</p>
+        <img alt="smartscreen.png" src="smartscreen.png"/>
+        <procedure id="smartscreen-instruction">
+            <step>Click <b>More info</b>, then click <b>Run anyway</b>.</step>
+        </procedure>
+        <p>After the SmartScreen message, a User Account Control prompt will be displayed on your screen: "Do you 
+            want to allow this app from an unknown publisher to make changes to your device?". Below is an example 
+            of this message.</p>
+        <img alt="uac.png" src="uac.png"/>
+        <procedure id="uac-instruction">
+            <step>Click <b>Yes</b>. If you are not using an account with administrator privileges, you must enter an admin username and password to proceed. If you do not have the admin credentials for your computer, please contact Technical Support.</step>
+        </procedure>
+    </chapter>
+    <chapter title="LIFE Automation Panel Setup Wizard" id="setup-wizard">
+        <p>The downloaded program is called the LIFE Automation Panel Setup Wizard. This program installs the files on your computer and allows you to use the LIFE Automation Panel.</p>
+
+        <procedure id="setup-wizard-steps">
+            <step>Select the language to use during the installation.</step>
+            <step>Read the License Agreement. You must accept the terms of this agreement before continuing with the installation. Click <b>I accept the agreement</b>, then click <b>Next</b> to continue.</step>
+            <step>Additional information will be provided explaining the LIFE Automation Panel on the next screen. Click <b>Next</b> to continue.</step>
+            <step>To create a shortcut icon to the LIFE Automation Panel on your desktop, click the checkbox next to <b>Create a desktop shortcut</b> (recommended). Click <b>Next</b> to continue.</step>
+            <step>Click <b>Install</b> to continue with the installation, or click <b>Back</b> if you want to review or change any settings.</step>
+            <step>Once the installation has completed, the finish screen will appear. Click <b>Finish</b> to exit Setup. The LIFE Automation Panel should launch shortly.</step>
+        </procedure>
+    </chapter>
+    <chapter title="Initial Setup" id="initial-setup">
+        <p>When you launch the LIFE Automation Panel for the first time, you must complete the Initial Setup.</p>
+        <procedure>
+            <step>The first page is a description about the LIFE Automation Panel. Click <b>OK</b> to continue.</step>
+            <step>The second page is a Beta Software disclaimer, which you must agree to before using the software. Click <b>Agree</b> to continue.</step>
+            <step>The third page is where you will enter your LIFE System password. Click <b>Set Password</b> and enter the password you use to log in to your LIFE System software. (Default is <code>1</code>.) Click <b>OK</b> to submit your password, then click <b>Finish</b> to complete the setup process.</step>
+        </procedure>
+        <p>Once you have completed the initial setup, the LIFE Automation Panel interface will open. <a href="Running-your-first-automation.topic">Learn how to run your first automation.</a></p>
+    </chapter>
+
+</topic>

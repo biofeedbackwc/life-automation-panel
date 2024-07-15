@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="1d633201">
+        <description>Created after removal of "Overview" from LIFE Automation Panel Docs</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="11a78d06">
+        <description>Created after removal of "Starter" from LIFE Automation Panel Docs</description>
+        <accepts>starter.html</accepts>
+    </rule>
+    <rule id="697da470">
+        <description>Created after removal of "What is LIFE Automation Panel?" from LIFE Automation Panel Docs
+        </description>
+        <accepts>What-is-LIFE-Automation-Panel.html</accepts>
+    </rule>
+    <rule id="5ebb7279">
+        <description>Created after removal of "LIFE Automation Panel" from LIFE Automation Panel Docs</description>
+        <accepts>LIFE-Automation-Panel.html</accepts>
+    </rule>
+    <rule id="3455026a">
+        <description>Created after removal of "How to" from LIFE Automation Panel Docs</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="3705e933">
+        <description>Created after removal of "Reference" from LIFE Automation Panel Docs</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="6037248a">
+        <description>Created after removal of "Overview" from LIFE Automation Panel Docs</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="400f0252">
+        <description>Created after removal of "Tutorial" from LIFE Automation Panel Docs</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+</rules>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="What is the LIFE Automation Panel?" id="What-is-the-LIFE-Automation-Panel">
+
+    <title>What is the LIFE Automation Panel?</title>
+    <chapter id="welcome-to-biofeedback-in-one-click">
+        <title>
+            Welcome to
+            <control>Biofeedback in one click.</control>
+        </title>
+        <p>In today's digital age, efficiency and productivity are paramount, especially for businesses and
+            professionals seeking to maximize their output while minimizing time and effort.</p>
+        <p>
+            <control>Enter the realm of software automation</control>
+            —a game-changing feature that has transformed the way tasks are managed in L.I.F.E. System. A notable
+            advancement is the ability to schedule to run scheduled tasks for customers over metaspace.
+            This sophisticated functionality allows users to automate a range of tasks. By leveraging the automation
+            feature, the software opeartes on a 24/7 basis without the need for constant user intervention. The L.I.F.E.
+            System owners can continuously serve their customers, address inquiries, and perform necessary sessions.
+        </p>
+    </chapter>
+    <chapter id="increase-productivity-with-the-life-automation-panel">
+        <title>
+            Increase productivity with the
+            <control>LIFE Automation Panel</control>
+        </title>
+        <p>The LIFE Automation Panel is an add-on program created by Biofeedback Wellness Center for the LIFE System
+            from Harmonic Energetic Technologies, Inc., allowing easy automation of sessions with the LIFE System. The
+            program features 22 Protocols prepared and pre-recorded by our professionally trained Master Practitioners
+            at BWC.</p>
+        <p>These protocols can be executed instantly or scheduled to be executed unattended to service clients through
+            metaspace, increasing productivity for the operator. The operator chooses a client by ID and the protocol to
+            perform, and the LIFE Automation Panel handles the rest!</p>
+        <img src="Screenshot_2024-07-12_114945.png" alt="LIFE Automation Panel" title="LIFE Automation Panel"/>
+    </chapter>
+
+</topic>

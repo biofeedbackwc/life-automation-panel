@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       id="Setup-is-not-trusted-by-web-browser" title="Setup is not trusted by web browser">
+
+    <title>
+        Setup is not trusted by web browser
+    </title>
+    <p>Due to the nature of our application, it is often flagged as unsafe or untrusted by many web browsers. We are
+        working on reporting our product as safe so that it is easier to download and install, but in the meantime you
+        may have to take extra steps to get your downloaded software.</p>
+    <tabs>
+        <tab id="edge" title="Microsoft Edge">
+            <p>Microsoft Edge will display the following warning when downloading the Setup file.</p>
+            <img src="edge-untrusted.png" alt="edge-untrusted.png"/>
+
+            <p>You must manually keep the file in order to open it.</p>
+            <procedure>
+                <step>Hover over the warning under <b>Downloads</b>, then click on the three dots that appear.</step>
+                <step>Click <b>Keep</b>.</step>
+                <step>Click <b>Show more</b>, then <b>Keep anyway</b>.</step>
+            </procedure>
+            <p>The Setup file will now continue to download. Once it is done, click <b><u>Open file</u></b>.</p>
+            <p>To help us improve the download process, you may also report the file as safe to Microsoft so the warning is not displayed in the future.</p>
+            <procedure>
+                <step>If you have not already followed the instructions to <b>keep</b> the file, hover over the warning under <b>Downloads</b>, then click on the three dots that appear. If the file has already downloaded, right-click on the download under the <b>Downloads</b> menu.</step>
+                <step>Click <b>Report this file as safe</b>. This will open a <i>Feedback to Microsoft</i> webpage.</step>
+                <step>Select <b>I think this is a safe website</b></step>
+                <step>Under <b>Enter the characters you see</b>, type the characters that are generated in the box above.</step>
+                <step>Click <b>Submit</b>. Thank you for reporting this file as safe!</step>
+            </procedure>
+        </tab>
+        <tab id="chrome" title="Google Chrome">
+            <p>Google Chrome might display a warning based on your security settings. Learn more in the article below.</p>
+            <a href="https://support.google.com/chrome/answer/6261569?hl=en&amp;ref_topic=7439644&amp;sjid=11923353515373695787-NC#">Google Chrome blocks some downloads - Google Chrome Help</a>
+        </tab>
+        <tab id="firefox" title="Mozilla Firefox">
+            <p>Mozilla Firefox might display a warning based on your security settings. Learn more in the article below.</p>
+            <a href="https://support.mozilla.org/en-US/kb/cant-download-or-save-files#:~:text=Firefox&percnt;20includes&percnt;20a&percnt;20download&percnt;20protection,for&percnt;20handling&percnt;20the&percnt;20pending&percnt;20download.">What to do if you can't download or save files | Firefox Help</a>
+        </tab>
+        <tab id="others" title="Other browsers">
+            <p>Your browser might display a warning when downloading the Setup file. Refer to your browser's documentation for more details.</p>
+        </tab>
+    </tabs>
+
+</topic>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="lapd"
+                 name="LIFE Automation Panel Docs"
+                 start-page="index.topic">
+
+    <toc-element topic="index.topic">
+        <toc-element topic="What-is-the-LIFE-Automation-Panel.topic"/>
+        <toc-element topic="Beta-Testing-Program.topic"/>
+        <toc-element topic="Protocols.topic"/>
+    </toc-element>
+    <toc-element topic="Installing-LIFE-Automation-Panel.topic">
+        <toc-element topic="Setup-is-not-trusted-by-web-browser.topic"/>
+    </toc-element>
+    <toc-element topic="Running-your-first-automation.topic"/>
+</instance-profile>

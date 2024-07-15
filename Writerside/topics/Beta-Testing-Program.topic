@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Beta Testing Program" id="Beta-Testing-Program">
+
+    <p>Biofeedback Wellness Center is in the process of finalizing the development of the LIFE Automation Panel, an add-on program that brings automation functionality to the LIFE System by Harmonic Energetic Technologies.</p>
+    <p>We are implementing a Beta Testing Program allow qualified participants to test upcoming releases in their own environment. Its purpose is to help us identify bugs, enhance the quality and functionality of our products, and fine-tune our products and components to meet yours and your customers' needs. The goal of this program is to test software and/or hardware changes and innovations in a real-world environment to help us make our products the best that they can be.</p>
+    <warning>
+        While the Beta program provides a sneak peek at the direction the product is taking, pre-released software should not be treated as evaluation software. The very nature of Beta designation implies that the software is incomplete and not quite ready for full release.
+    </warning>
+    <p>We expect each participant in the Beta Testing Program to provide feedback to us throughout the testing period through online forms and e-mail. Feedback is expected to include: defects encountered, suggestions on how to improve interface, suggestions on how to improve functionality, and other feedback.</p>
+    <p>We may update the software during the beta testing period. When this happens, we will request that all participants install the update and provide your continued regular feedback on the most current version.</p>
+    <p>Pre-release products are not fully supported by Biofeedback Wellness Center or LIFE-HET Technical Support, but limited support may be available for our beta test participants. If you encounter an issue with the product that requires assistance from us, please report that issue via e-mail to <a href="mailto:hello@biofeedbackwc.com">hello@biofeedbackwc.com</a>. We will contact you to work through that issue at a time that is mutually convenient.</p>
+    <p><i>The full Beta Testing Agreement will be posted here when it becomes available.</i></p>
+</topic>

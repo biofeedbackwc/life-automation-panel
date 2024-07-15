@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       id="Running-your-first-automation" title="Running your first automation">
+
+    <title>
+        Running your first automation
+    </title>
+    <p>Now that you have <a href="Installing-LIFE-Automation-Panel.topic">installed the LIFE Automation Panel</a> on your LIFE System computer, it's time to run your first automated protocol.</p>
+    <p>In this tutorial, you will learn how to:</p>
+    <list>
+        <li>Execute an automation</li>
+        <li>Stop the current automation</li>
+        <li>Schedule an automation</li>
+        <li>Modify existing schedules</li>
+    </list>
+
+    <chapter title="Before you start" id="before-you-start">
+        <p>Make sure that:</p>
+        <list>
+            <li><a href="Installing-LIFE-Automation-Panel.topic">the LIFE Automation Panel is fully installed on your LIFE System computer and ready for use</a>.</li>
+            <li>you have checked all important prerequisites before starting your first automation.</li>
+        </list>
+    </chapter>
+
+    <chapter title="Choosing a client" id="choosing-a-client">
+        <p>Before you can run or schedule an automation, you must have a client ready for your session. The LIFE Automation Panel uses a Client ID number that can be found in the LIFE System's Demographics panel.</p>
+        <procedure>
+            <step>Log in to the LIFE System software.</step>
+            <step>From the Navigation panel, click <b>Demographics</b>.</step>
+        </procedure>
+    </chapter>
+    <chapter title="Part 1" id="part-1">
+        <p>Describe what the user will learn and accomplish in the first part,
+            then write a step-by-step procedure but on a real-world example.</p>
+        <list type="decimal">
+            <li>
+                <p>Execute the following command in the terminal:</p>
+
+                <code-block lang="bash">
+                    run this --that
+                </code-block>
+            </li>
+            <li>
+                <p>Step with a <a href="https://www.jetbrains.com">link</a></p>
+            </li>
+            <li>
+                <p>Final step in part 1.</p>
+            </li>
+        </list>
+    </chapter>
+    <chapter title="Part 2" id="part-2">
+        <p>This is the second part of the tutorial:</p>
+        <list type="decimal">
+            <li>Step 1</li>
+            <li>Step 2</li>
+            <li>Step n</li>
+        </list>
+    </chapter>
+    <chapter title="What you've learned" id="what-learned">
+        <p>Summarize what the reader achieved by completing this tutorial.</p>
+    </chapter>
+
+</topic>
