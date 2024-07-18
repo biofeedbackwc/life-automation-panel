@@ -26,40 +26,39 @@
 
     <chapter title="Choosing a client" id="choosing-a-client">
         <p>Before you can run or schedule an automation, you must have a client ready for your session. The LIFE Automation Panel uses a Client ID number that can be found in the LIFE System's Demographics panel.</p>
-        <procedure>
+        <procedure title="Finding a client's ID" id="finding-client-id">
             <step>Log in to the LIFE System software.</step>
             <step>From the Navigation panel, click <b>Demographics</b>.</step>
+            <img alt="demographics.png" src="demographics.png"/>
+            <step>You may locate your client by first or last name. Their ID number will appear in the table on the right side of the screen under <b>Member</b>. If you click on the client's name to select it, the ID number will also appear in the <b>Member ID</b> field on the left side of the screen.</step>
         </procedure>
     </chapter>
-    <chapter title="Part 1" id="part-1">
-        <p>Describe what the user will learn and accomplish in the first part,
-            then write a step-by-step procedure but on a real-world example.</p>
-        <list type="decimal">
-            <li>
-                <p>Execute the following command in the terminal:</p>
-
-                <code-block lang="bash">
-                    run this --that
-                </code-block>
-            </li>
-            <li>
-                <p>Step with a <a href="https://www.jetbrains.com">link</a></p>
-            </li>
-            <li>
-                <p>Final step in part 1.</p>
-            </li>
-        </list>
-    </chapter>
-    <chapter title="Part 2" id="part-2">
-        <p>This is the second part of the tutorial:</p>
-        <list type="decimal">
-            <li>Step 1</li>
-            <li>Step 2</li>
-            <li>Step n</li>
-        </list>
-    </chapter>
-    <chapter title="What you've learned" id="what-learned">
-        <p>Summarize what the reader achieved by completing this tutorial.</p>
+    <chapter title="How to run an automation" id="how-to-automate">
+        <p>The LIFE Automation Panel contains <a href="Protocols.topic">22 Protocols</a> that can be executed on any of your clients in the LIFE System.</p>
+        <procedure title="Execute instantly" id="execute-instantly">
+            <step>Select a protocol in the <b>Protocols</b> box on the left side of the screen. The name of the protocol will appear in a text box at the bottom right of the screen.</step>
+            <step>In the <b>ID</b> box on the bottom right, enter the <a href="#choosing-a-client">ID number</a> of your client.</step>
+            <step>Click <b>Run</b> to instantly execute the protocol. Ignore the Date/Time field.</step>
+        </procedure>
+        <p>At any time while LIFE Automation Panel is running, you can force the current protocol to stop.</p>
+        <procedure title="Stopping the current automation" id="stopping-automation">
+            <step>Press <shortcut>F8</shortcut> on your keyboard, <b><i>OR</i></b> click the <b>STOP (F8)</b> button on the Sidebar on the right of the screen.</step>
+            <step>The automation sequence will instantly be stopped and cannot be resumed. You must manually exit the LIFE System before starting another automation.</step>
+        </procedure>
+        <p>Protocols can also be scheduled to be executed unattended at a later date and time.</p>
+        <procedure title="Scheduling an automation" id="scheduling-automation">
+            <step>Select a protocol in the <b>Protocols</b> box on the left side of the screen. The name of the protocol will appear in a text box at the bottom right of the screen</step>
+            <step>In the <b>ID</b> box on the bottom right, enter the <a href="#choosing-a-client">ID number</a> of your client.</step>
+            <step>Click on the <b>date</b> and use number/arrow keys to set the date. You can also click the Calendar icon to select a day on the calendar.</step>
+            <step>Click on the <b>time</b> and use number/arrow keys to set the time. To select AM/PM, press <shortcut>A</shortcut> or <shortcut>P</shortcut> on your keyboard, or use the arrow keys.</step>
+            <step>Click <b>Schedule</b> to submit the automation to the schedule. A dialog box will appear to display the scheduled task information and the task will appear in the scheduled list on the right side of the Automation interface.</step>
+        </procedure>
+        <p>Sometimes, you may incorrectly schedule an automation (for example, schedule a session for the wrong time or would like to remove the schedule). You can delete existing scheduled and reschedule them.</p>
+        <procedure title="Modifying existing schedules" id="modifying-schedule">
+            <step>Locate the list of tasks on the right side of the Automation interface. Click on the task you would like to delete.</step>
+            <step>Click <b>Delete</b> in the bottom right corner. A dialog box will appear confirming that the item has been deleted.</step>
+            <step>You may now reschedule the protocol as intended.</step>
+        </procedure>
     </chapter>
 
 </topic>
