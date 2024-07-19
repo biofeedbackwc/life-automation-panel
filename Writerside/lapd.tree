@@ -9,7 +9,8 @@
     <toc-element topic="index.topic">
         <toc-element topic="What-is-the-LIFE-Automation-Panel.topic"/>
         <toc-element topic="Beta-Testing-Program.topic"/>
-        <toc-element topic="Protocols.topic"/>
+        <toc-element topic="Protocols.topic">
+        </toc-element>
     </toc-element>
     <toc-element topic="Installing-LIFE-Automation-Panel.topic">
         <toc-element topic="Setup-is-not-trusted-by-web-browser.topic"/>
