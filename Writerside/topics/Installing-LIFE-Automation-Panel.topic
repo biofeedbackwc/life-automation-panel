@@ -28,7 +28,7 @@
         </procedure>
     </chapter>
     <chapter title="Downloading the LIFE Automation Panel" id="downloading">
-        <p>If your computer meets the requirements defined above, it is supported for the LIFE Automation Panel. Beta Testers will receive download links in their email.</p>
+        <p>If your computer meets the requirements defined above, it is supported for the LIFE Automation Panel. <a href="Download.topic">Download LIFE Automation Panel</a></p>
         <warning>
             Some web browsers may flag our software as unsafe or untrusted. You may have to manually keep the file and report it as safe. <a href="Setup-is-not-trusted-by-web-browser.topic">Learn more</a>
         </warning>

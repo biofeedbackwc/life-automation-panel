@@ -12,6 +12,7 @@
         <toc-element topic="Protocols.topic">
         </toc-element>
     </toc-element>
+    <toc-element topic="Download.topic"/>
     <toc-element topic="Installing-LIFE-Automation-Panel.topic">
         <toc-element topic="Setup-is-not-trusted-by-web-browser.topic"/>
     </toc-element>
