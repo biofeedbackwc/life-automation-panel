@@ -24,7 +24,7 @@
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
             <a href="What-is-the-LIFE-Automation-Panel.topic" type="tools" summary="Enter the realm of software automation.">What is the LIFE Automation Panel?</a>
-            <a href="Beta-Testing-Program.topic" type="settings" summary="Get early access and help us improve our product.">Beta Testing Program</a>
+            <a href="Download.topic" type="cloud" summary="Try it out for 10 days.">Download LIFE Automation Panel</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->

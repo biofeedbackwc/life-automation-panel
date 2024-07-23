@@ -6,8 +6,21 @@
         <variables>
             <noindex-content>true</noindex-content>
             <header-logo>logo.png</header-logo>
+            <primary-color>#526db3</primary-color>
+            <custom-favicons>logo.png</custom-favicons>
+            <product-web-url>https://biofeedbackwc.com/lifeautomation</product-web-url>
+            <download-title>Download Now</download-title>
+            <download-page>/Download.topic</download-page>
+            <showDownloadButton>true</showDownloadButton>
         </variables>
+        <footer>
+            <copyright>2024 Flying Frequency Inc d/b/a Biofeedback Wellness Center.</copyright>
+            <social type="email" href="mailto:hello@biofeedbackwc.com">hello@biofeedbackwc.com</social>
+            <social type="facebook" href="https://facebook.com/biofeedbackwc">@biofeedbackwc</social>
+            <social type="instagram" href="https://instagram.com/biofeedbackwc">@biofeedbackwc</social>
+            <link href="https://biofeedbackwc.com">Biofeedback Wellness Center</link>
 
+        </footer>
     </build-profile>
 
 </buildprofiles>
