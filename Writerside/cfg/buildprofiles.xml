@@ -10,7 +10,7 @@
             <custom-favicons>logo.png</custom-favicons>
             <product-web-url>https://biofeedbackwc.com/lifeautomation</product-web-url>
             <download-title>Download Now</download-title>
-            <download-page>/download.html</download-page>
+            <download-page>https://docs.biofeedbackwc.com/life-automation-panel/download.html</download-page>
             <showDownloadButton>true</showDownloadButton>
         </variables>
         <footer>
