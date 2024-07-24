@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Registering your LIFE Automation Panel" id="Registering-your-LIFE-Automation-Panel">
+
+    <p>Once you purchase the LIFE Automation Panel, you will need a registration key to activate the software.</p>
+    
+    <chapter title="Identifying your hardware" id="identifying_your_hardware">
+        <p>Your computer has a Hardware ID (HWID) that is used to generate your activation key, as the LIFE Automation Panel will be locked to your device. This HWID uses the format below, and can be found in the LIFE System software, or will be displayed when your trial has expired.</p>
+        <code-block>XXXX-XXXX</code-block>
+        <procedure title="Hardware ID in LIFE System" id="hardware_id_in_life_system">
+            <step>Open the LIFE System software.</step>
+            <step>On the first screen, click <b>Continue</b>.</step>
+            <step>The HWID is located in the bottom right corner of the screen.</step>
+        </procedure>
+        <procedure title="Hardware ID in Activation Program" id="hardware_id_in_activation_program">
+            <step>Open the LIFE Automation Panel. The following message will appear:
+                <code-block>Your temporary key has expired. If you believe this message is in error, please contact the program's author.</code-block>
+            </step>
+            <step>Click <b>Enter Key</b>.</step>
+            <step>The HWID is located in this box.</step>
+        </procedure>
+    </chapter>
+    <chapter title="Submitting your hardware information" id="submitting_your_hardware_information">
+        <p>To receive your key, you must submit this information to Biofeedback Wellness Center. A link to the Hardware Identification Form will be included in the Order Processed email. <a href="">If you cannot find this link, click here.</a></p>
+        <procedure id="hardware_identification_form">
+            <step><b>Name:</b> Enter your name. This must exactly match the name that appears on your Order Form.</step>
+            <step><b>Hardware Identifier (HWID):</b> Enter the HWID of the computer you are installing the LIFE Automation Panel onto.</step>
+            <step><b>LIFE System Serial Number:</b> Enter the serial number of the LIFE System interface box that is connected to the computer.</step>
+        </procedure>
+        <warning>
+            <p><b>MAKE SURE YOUR INFORMATION IS CORRECT.</b> Your key will be locked to the specified hardware information and may not work if it is incorrect.</p>
+        </warning>
+    </chapter>
+    <chapter title="Activating the software" id="activating_the_software">
+        <p>You will receive an email with your activation information. The activation key will look like this:</p>
+        <code-block>XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX</code-block>
+        <procedure id="activating">
+            <step>Open the LIFE Automation Panel to see the activation warning.</step>
+            <step>Click <b>Enter Key</b>.</step>
+            <step>Enter the <b>Name</b> and <b>Key</b> exactly as it appears in the Activation Information email.</step>
+        </procedure>
+        <p><b>Congratulations!</b> You're ready to <a href="Running-your-first-automation.topic">run your first automation.</a></p>
+    </chapter>
+</topic>

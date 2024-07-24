@@ -16,5 +16,6 @@
     <toc-element topic="Installing-LIFE-Automation-Panel.topic">
         <toc-element topic="Setup-is-not-trusted-by-web-browser.topic"/>
     </toc-element>
+    <toc-element topic="Registering-your-LIFE-Automation-Panel.topic"/>
     <toc-element topic="Running-your-first-automation.topic"/>
 </instance-profile>
