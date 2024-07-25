@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Remote Support" id="Remote-Support">
+
+    <p>If you are experiencing issues with the LIFE Automation Panel, our support team may request to connect directly to your computer using our Remote Connection Utility to diagnose your problem.</p>
+    <warning>
+        <p>The Biofeedback Wellness Center Remote Connection Utility grants attended remote access to your computer over the Internet. Only give your access credentials to an authorized technician from our support team. An official remote access request will be sent by email from these domains:</p>
+        <list>
+            <li>biofeedbackwc.com</li>
+            <li>life-het.com</li>
+        </list>
+    </warning>
+    <chapter title="Using the Remote Connection Utility" id="using_the_remote_connection_utility">
+        <p>The LIFE Automation Panel includes our Remote Connection Utility, a customized tool that allows spontaneous remote support with our support team. A technician can connect and control your computer remotely, in order to diagnose problems and troubleshoot.</p>
+        <procedure id="launch_remote_connection_utility">
+            <step>Open the <b>LIFE Automation Panel</b>.</step>
+            <step>Locate the menu bar at the top of the screen. On the left side, click on the <b>Help</b> menu.</step>
+            <step>Click <b>Remote Support</b>.</step>
+            <step>The BWC Remote Connection Utility will open with an Internet ID and Password. Provide these details to the support technician to start the remote support session. </step><img alt="agent.png" src="agent.png"/>
+        </procedure>
+    </chapter>
+
+</topic>

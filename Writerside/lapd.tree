@@ -8,6 +8,7 @@
 
     <toc-element topic="index.topic">
         <toc-element topic="What-is-the-LIFE-Automation-Panel.topic"/>
+        <toc-element topic="Remote-Support.topic"/>
         <toc-element topic="Beta-Testing-Program.topic"/>
         <toc-element topic="Protocols.topic">
         </toc-element>
