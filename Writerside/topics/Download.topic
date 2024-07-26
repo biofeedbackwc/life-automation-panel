@@ -8,8 +8,8 @@
     <secondary-label ref="wip"/>
     <secondary-label ref="beta"/>
     <tldr>
-        <p>Version: <code>0.8.4.8</code></p>
-        <p>Date: <b>July 20, 2024</b></p>
+        <p>Latest Version: <code>0.8.4.9</code></p>
+        <p>Date: <b>July 24, 2024</b></p>
         <p><a href="Installing-LIFE-Automation-Panel.topic#system-requirements"/></p>
         <p><a href="Installing-LIFE-Automation-Panel.topic">Installation instructions</a></p>
     </tldr>
@@ -18,10 +18,14 @@
     </tip>
 
     <p>LIFE Automation Panel is free to use in 10-day trials during the Beta Testing Program.</p>
-    <table style="header-column">
+    <table style="none">
         <tr>
-            <td><code>0.8.4.8</code></td>
-            <td><resource src="LIFEAutomationSetup-Beta10d-0.8.4.8.exe"/></td>
+            <td><code>0.8.4.9</code>
+            <resource src="LIFEAutomationSetup-Beta10d-0.8.4.9.exe"/></td>
+        </tr>
+        <tr>
+            <td><code>0.8.4.8</code>
+                <resource src="LIFEAutomationSetup-Beta10d-0.8.4.8.exe"/></td>
         </tr>
     </table>
 </topic>
