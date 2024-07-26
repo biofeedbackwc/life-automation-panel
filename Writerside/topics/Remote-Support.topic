@@ -22,5 +22,11 @@
             <step>The BWC Remote Connection Utility will open with an Internet ID and Password. Provide these details to the support technician to start the remote support session. </step><img alt="agent.png" src="agent.png"/>
         </procedure>
     </chapter>
+    <chapter title="Download Remote Connection Utility" id="download_remote_connection_utility">
+        <p>If the Remote Connection Utility is missing from your installation of the LIFE Automation Panel, please download it below.</p>
+        <procedure>
+            <resource src="BWC.Agent.en_us.RUT.7.2.2.0.exe"/>
+        </procedure>
+    </chapter>
 
 </topic>
