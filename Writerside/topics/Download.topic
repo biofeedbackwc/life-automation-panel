@@ -8,8 +8,8 @@
     <secondary-label ref="wip"/>
     <secondary-label ref="beta"/>
     <tldr>
-        <p>Latest Version: <code>0.8.4.9</code></p>
-        <p>Date: <b>July 24, 2024</b></p>
+        <p>Latest Version: <code>0.8.6</code></p>
+        <p>Date: <b>July 29, 2024</b></p>
         <p><a href="Installing-LIFE-Automation-Panel.topic#system-requirements"/></p>
         <p><a href="Installing-LIFE-Automation-Panel.topic">Installation instructions</a></p>
     </tldr>
