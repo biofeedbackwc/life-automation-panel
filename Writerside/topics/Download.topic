@@ -28,4 +28,13 @@
                 <resource src="LIFEAutomationSetup-Beta10d-0.8.4.8.exe"/></td>
         </tr>
     </table>
+    <chapter title="Registered version" id="registered_version">
+        <p>Download this version if you have purchased the LIFE Automation Panel.</p>
+        <table style="none">
+            <tr>
+                <td><code>0.8.6</code>
+                    <resource src="LIFEAutomationSetup-REG-0.8.6.exe"/></td>
+            </tr>
+        </table>
+    </chapter>
 </topic>
