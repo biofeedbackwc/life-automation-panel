@@ -40,6 +40,7 @@
             <step>In the <b>ID</b> box on the bottom right, enter the <a href="#choosing-a-client">ID number</a> of your client.</step>
             <step>Click <b>Run</b> to instantly execute the protocol. Ignore the Date/Time field.</step>
         </procedure>
+        <tip>The LIFE Automation Panel can automate protocols whether the LIFE System interface box is connected or not. It will automatically enter Virtual Mode if necessary.</tip>
         <p>At any time while LIFE Automation Panel is running, you can force the current protocol to stop.</p>
         <procedure title="Stopping the current automation" id="stopping-automation">
             <step>Press <shortcut>F8</shortcut> on your keyboard, <b><i>OR</i></b> click the <b>STOP (F8)</b> button on the Sidebar on the right of the screen.</step>
@@ -53,6 +54,7 @@
             <step>Click on the <b>time</b> and use number/arrow keys to set the time. To select AM/PM, press <shortcut>A</shortcut> or <shortcut>P</shortcut> on your keyboard, or use the arrow keys.</step>
             <step>Click <b>Schedule</b> to submit the automation to the schedule. A dialog box will appear to display the scheduled task information and the task will appear in the scheduled list on the right side of the Automation interface.</step>
         </procedure>
+        <warning>Once you have finished scheduling sessions, close the LIFE Automation Panel and leave your device plugged into power.</warning>
         <p>Sometimes, you may incorrectly schedule an automation (for example, schedule a session for the wrong time or would like to remove the schedule). You can delete existing scheduled and reschedule them.</p>
         <procedure title="Modifying existing schedules" id="modifying-schedule">
             <step>Locate the list of tasks on the right side of the Automation interface. Click on the task you would like to delete.</step>
