@@ -8,8 +8,8 @@
     <secondary-label ref="wip"/>
     <secondary-label ref="beta"/>
     <tldr>
-        <p>Latest Version: <code>1.3.6.3.1</code></p>
-        <p>Date: <b>August 15, 2024</b></p>
+        <p>Latest Version: <code>1.3.6.3.7</code></p>
+        <p>Date: <b>November 4, 2024</b></p>
         <p><a href="Installing-LIFE-Automation-Panel.topic#system-requirements"/></p>
         <p><a href="Installing-LIFE-Automation-Panel.topic">Installation instructions</a></p>
     </tldr>
@@ -20,16 +20,16 @@
     <p>LIFE Automation Panel is free to use in 10-day trials during the Beta Testing Program.</p>
     <table style="none">
         <tr>
-            <td><code>1.3.6.3.1</code>
-                <resource src="LIFEAutomationSetup-10day-1.3.6.3.1.exe"/></td>
+            <td><code>1.3.6.3.7</code>
+                <resource src="LIFEAutomationSetup-10day-1.3.6.3.7.exe"/></td>
         </tr>
     </table>
     <chapter title="Registered version" id="registered_version">
         <p>Download this version if you have purchased the LIFE Automation Panel.</p>
         <table style="none">
             <tr>
-                <td><code>1.3.6.3.1</code>
-                    <resource src="LIFEAutomationSetup-REG-1.3.6.3.1.exe"/></td>
+                <td><code>1.3.6.3.7</code>
+                    <resource src="LIFEAutomationSetup-REG-1.3.6.3.7.exe"/></td>
             </tr>
         </table>
     </chapter>
